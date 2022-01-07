@@ -27,7 +27,7 @@ General code. Dual SDP problem, as described in Section I of the Supplemental Ma
 - [evaluate_S](https://github.com/jessicabavaresco/experimental-SDI-causality/blob/master/evaluate_S.m):
 General code. Evaluates the value of S that a given set of probability distributions achieves for a given set of semi-device-independent-causal-inequality coefficients.
 
-#### DATA
+#### DATA FILES
 
 - [inequality_coefficients](https://github.com/jessicabavaresco/experimental-SDI-causality/blob/master/inequality_coefficients.mat):
 MATLAB data file containing the following variable pertaining to the results of the paper:
