@@ -30,7 +30,7 @@ General code. Evaluates the value of S that a given set of probability distribut
 #### DATA FILES
 
 - [inequality_coefficients](https://github.com/jessicabavaresco/experimental-SDI-causality/blob/master/inequality_coefficients.mat):
-MATLAB data file containing the following variable pertaining to the results of the paper:
+MATLAB data file containing the following variables pertaining to the results of the paper:
   - alpha_abcxyz: coefficients of our experimentally-tested semi-device-independent causal inequality.
   - p_experiment: experimentally measured set of probability distributions.
   - p_theory: theoretical prediction of the set of probability distributions.
