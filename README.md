@@ -1,4 +1,4 @@
-## Code to accompany *[Paper title](https://arxiv.org/abs/xxxx.xxxxx)*
+## Code to accompany: *["Experimental semi-device-independent certification of indefinite causal order with the quantum switch"](https://arxiv.org/abs/xxxx.xxxxx)*
 #### Jessica Bavaresco
 
 This is a repository for the code used to calculate the coefficient of the semi-device-independent causal inequality of the article "*Title*, Authors, [arXiv:xxxx.xxxxx [quant-ph]](https://arxiv.org/abs/xxxx.xxxxx)".
