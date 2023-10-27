@@ -1,7 +1,7 @@
-## Code to accompany: *["Experimental semi-device-independent certification of indefinite causal order"](https://arxiv.org/abs/2202.05346)*
+## Code to accompany: *["Semi-device-independent certification of indefinite causal order in a photonic quantum switch"](https://arxiv.org/abs/2202.05346)*
 #### Jessica Bavaresco
 
-This is a repository for the code used to calculate the coefficients of the semi-device-independent causal inequality of the article "*Experimental semi-device-independent certification of indefinite causal order*, Huan Cao, Jessica Bavaresco, Ning-Ning Wang, Lee A. Rozema, Chao Zhang, Yun-Feng Huang, Bi-Heng Liu, Chuan-Feng Li, Guang-Can Guo, and Philip Walther, [arXiv:2202.05346 [quant-ph]](https://arxiv.org/abs/2202.05346)".
+This is a repository for the code used to calculate the coefficients of the semi-device-independent causal inequality of the article "*Semi-device-independent certification of indefinite causal order in a photonic quantum switch*, Huan Cao, Jessica Bavaresco, Ning-Ning Wang, Lee A. Rozema, Chao Zhang, Yun-Feng Huang, Bi-Heng Liu, Chuan-Feng Li, Guang-Can Guo, and Philip Walther, [*Optica* **10**, 561 (2023)](https://doi.org/10.1364/OPTICA.483876), [arXiv:2202.05346 [quant-ph]](https://arxiv.org/abs/2202.05346)".
 
 All code is written in MATLAB and requires:
 - [Yalmip](https://yalmip.github.io) - a free MATLAB toolbox for rapid prototyping of optimization problems
